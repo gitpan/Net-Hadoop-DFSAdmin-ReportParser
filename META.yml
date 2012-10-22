@@ -24,4 +24,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/tagomoris/Net-Hadoop-DFSAdmin-ReportParser.git
-version: 0.1
+version: 0.2
